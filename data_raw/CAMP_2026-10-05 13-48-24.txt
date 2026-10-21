@@ -1,0 +1,26 @@
+  Camp_ID	gi	UniProt_id	PDBID	Title	Source_Organism	Taxonomy	Seqence	Length	Pubmed_id	Activity	Gram_Nature	Validation
+CAMPSQ6	109892826	P84866		Pleurostatin	Pleurotus ostreatus 	Fungi	VRPYLVAF	8	15941607	Antifungal		Experimentally Validated
+CAMPSQ7	109894868	P84868		Sesquin	Vigna unguiculata subsp. sesquipedalis 	Viridiplantae	KTCENLADTY	10	15949629	Antibacterial, Antifungal, Antiviral	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ17	110287794	P84869		Antifungal lectin PVAP	Phaseolus vulgaris 	Viridiplantae	SNDIYFNFQR	10	16026901	Antifungal		Experimentally Validated
+CAMPSQ497	51315827	P84071		Ascalin	 Allium cepa var. aggregatum	Viridiplantae	YQCGQGG	7	12126728	Antifungal,Antiviral		Experimentally Validated
+CAMPSQ519	55583845	P84200		Gymnin	Gymnocladus chinensis 	Viridiplantae	KTCENLADDY	10	14499273	Antifungal,Antiviral		Experimentally Validated
+CAMPSQ647	88909166	P84759		Jellein-3 	Apis mellifera	Animalia (Insects)	EPFKISIHL	9	15203237	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ651	90109840	P84760		Alveolarin	Polyporus alveolaris 	Fungi	GVCDMADLA	9	15165727	Antifungal		Experimentally Validated
+CAMPSQ665	20138866	O18330		Jellein-1 	Apis mellifera	Animalia (Insects)	PFKISIHL	8	15203237	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ666	20138866	O18330		Jellein-2	Apis mellifera	Animalia (Insects)	TPFKISIHL	9	15203237	Antibacterial,Antifungal	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ749	110560642	A6MBP9		Odorranain-N1	Odorrana grahami	Animalia (Amphibians)	DEKGPKWKR	9	17272268	Antifungal		Experimentally Validated
+CAMPSQ771				Antifungal protein from coconut	Cocos nucifera	Viridiplantae	EQCREEEDDR	10	16308082	Antifungal,Antiviral		Experimentally Validated
+CAMPSQ834	75347354	Q47505	3H5R,3H9G,3H9J,3H9Q	Microcin C7	Escherichia coli	Bacteria	MRTGNAN	7	2861788	Antibacterial	Gram-ve	Experimentally Validated
+CAMPSQ936	46395637	O96049		Defensin precursor	Oryctes rhinoceros	Animalia (Insects)	AHCLAIGRK	9	10561605	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ937				Modified defensin	Synthetic construct		ALRLAIRKR	9	10561605	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ938				Modified defensin	Synthetic construct		ALLLAIRKR	9	10561605	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ939				Modified defensin	Synthetic construct		AWLLAIRKR	9	10561605	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ940				Modified defensin	Synthetic construct		ALYLAIRKR	9	10561605	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ941				Modified defensin	Synthetic construct		ALWLAIRKR	9	10561605	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1050				Gramicidin S	Synthetic construct		VXLFPPFLXV	10	Reference: Bull. Chem. Soc. Jpn., 58, 1469-1472 (1985)	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1051				Gramicidin Analogue	Synthetic construct		VXLPFPFLXV	10	Reference: Bull. Chem. Soc. Jpn., 58, 1469-1472 (1985)	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1091	223635095	P86168		Colutellin-A	Colletotrichum dematium	Fungi	VISIIPV	7	18599825	Antifungal		Experimentally Validated
+CAMPSQ1170				E07LKK	Synthetic construct		LKLLKKL	7	7726486	Antibacterial	Gram+ve, Gram-ve	Experimentally Validated
+CAMPSQ1607	71153732	Q9GLR2		Demidefensin-3 	Macaca mulatta	Animalia (Mammals)	RCICVLGIC	9		Antibacterial,Antifungal		Predicted
+CAMPSQ1939	88909608	P84711		Curvalicin-28c	Lactobacillus curvatus	Bacteria	NIPQLTPTP	9	16680519	Antibacterial	Gram+ve	Experimentally Validated
+CAMPSQ2153	82592653	P84703		Bacteriocin	Rhizobium leguminosarum bv. viciae	Bacteria	ASILTNAS	8		Antibacterial		Experimentally Validated
